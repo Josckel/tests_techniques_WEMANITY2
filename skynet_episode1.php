@@ -63,4 +63,5 @@ while (TRUE)
     $noeud[$noeudDecon] = $noeudValid;
     
     echo "$SI $noeudDecon\n";
+    
 }
