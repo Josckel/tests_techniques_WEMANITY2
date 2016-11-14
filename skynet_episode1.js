@@ -55,7 +55,7 @@ while (true) {
       }
       else {
            n1=liens[i].split(" ")[0];
-      n2=liens[i].split(" ")[1];
+      n2=liens[i].split(" ")[1] ;
         
         
         if(liens.indexOf(n2+" "+SI)!=-1 && liens.indexOf(EI+" "+n2)!=-1)
