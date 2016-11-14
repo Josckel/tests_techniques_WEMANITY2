@@ -41,7 +41,7 @@ while (true) {
        printErr('Getway exit  = ...'+EI);
       
         for(i = 0; i < liens.length; i++)
-  {
+  { 
      
    
      
